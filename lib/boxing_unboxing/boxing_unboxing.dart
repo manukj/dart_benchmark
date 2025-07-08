@@ -2,7 +2,7 @@ import 'dart:math';
 
 import 'package:benchmark_harness/benchmark_harness.dart';
 
-const int iterations = 1000000;
+const int iterations = 1000;
 const int benchmarkRuns = 10;
 
 class NoBoxingBenchmark extends BenchmarkBase {
